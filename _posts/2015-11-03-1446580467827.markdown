@@ -1,0 +1,7 @@
+---
+layout: post 
+title:  "" 
+date:   2015-11-03T19:54:27.824Z 
+---
+
+<div>Si lo que quiero es&nbsp;<strong>publicar</strong>&nbsp;un post. Cómo debo&nbsp;<em>hacerlo</em>.</div>
